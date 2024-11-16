@@ -9,6 +9,7 @@ def display_menu():
     print("5. Поиск автомобиля")
     print("6. Выход из приложения")
     print("Файл с изменениями")
+    print("Разработчики ООО Своя компания")
 def main():
     file_name = 'cars.txt'
     
