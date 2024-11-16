@@ -1,1 +1,2 @@
 1,2,3,4,5,6
+mazda,mazda sports,red,mecha,ex45,78
